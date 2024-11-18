@@ -23,7 +23,7 @@
 ### Installation
 1. Clone the repository: 
 ```bash
-git clone https://learn.zone01kisumu.ke/git/allkamau/groupie-tracker.git
+git clone https://github.com/FredMunene/artistHub.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -42,7 +42,7 @@ Contributions are welcome! If you'd like to contribute to Groupie Tracker, pleas
 
 1. Fork the repository:
 ```bash
- git fork https://github.com/Githaiga22/groupie-tracker.git
+ git fork https://github.com/FredMunene/artistHub.git
  ```
 2. Create a new branch:
 ```bash
